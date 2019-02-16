@@ -1,0 +1,15 @@
+[
+    {
+        "database": 
+        {
+            "hostname": "localhost",
+            "username": "username",
+            "password": "password",
+            "database": "database"
+        },
+        "global":
+        {
+            "prefix": "[HorizonProject] "
+        }
+    }
+]

@@ -1,0 +1,8 @@
+<meta>
+    <!--OOP-->
+    <oop>true</oop>
+    <!--EXPORT-->
+    <export function="GetVariable" type="server" />
+    <!--SCRIPTS-SERVER-->
+    <script src="Controller.lua" type="server" />
+</meta>
