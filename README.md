@@ -6,6 +6,7 @@ Zasób umożliwia pobieranie zapisanych wartości w każdym zasobie. (Globalna)
 The resource allows you to download saved values ​​in each resource. (Global)
 
 [PL/Usage]
+
 Pobieranie wszystkich zmiennych/wartości
 ```lua
 local data = exports["resource"]:GetVariable(nil, nil)
