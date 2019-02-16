@@ -1,11 +1,11 @@
 # MTA-GlobalVariables
-[PL]
+**[PL]**
 Zasób umożliwia pobieranie zapisanych wartości w każdym zasobie. (Globalna)
 
-[EN]
+**[EN]**
 The resource allows you to download saved values ​​in each resource. (Global)
 
-[PL/Usage]
+**//[PL/Usage]//**
 
 * Pobieranie wszystkich zmiennych/wartości
 ```lua
