@@ -5,7 +5,7 @@ Zasób umożliwia pobieranie zapisanych wartości w każdym zasobie. (Globalna)
 
 **[EN]**
 
-The resource allows you to download saved values ​​in each resource. (Global)
+The resource allows you to get saved values ​​in each resource. (Global)
 
 **[PL/Usage]**
 
