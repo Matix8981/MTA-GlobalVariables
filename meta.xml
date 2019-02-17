@@ -3,6 +3,7 @@
     <oop>true</oop>
     <!--EXPORT-->
     <export function="GetVariable" type="server" />
+    <export function="SetVariable" type="server" />
     <!--SCRIPTS-SERVER-->
     <script src="Controller.lua" type="server" />
 </meta>
