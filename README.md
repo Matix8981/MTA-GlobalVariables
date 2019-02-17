@@ -24,7 +24,7 @@ outputDebugString(data["prefix"])
 local data = exports["resource"]:GetVariable("NAME_TABLE", "VALUE")
 outputDebugString(data)
 ```
-[EN/Usage]
+**[EN/Usage]**
 
 * Get all variables/values
 ```lua
