@@ -36,7 +36,7 @@ end
 
 function SetVariable(table, row, value)
     if not table then return false end
-    if not row then
+    if not row or not not Variables[table] then
         Variables[table] = {} -- Czyszczenie tablicy
     else
         if isElement(value) then return false end
